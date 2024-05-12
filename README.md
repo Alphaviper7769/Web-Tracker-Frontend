@@ -70,8 +70,3 @@ pnpm install</code></pre>
 <h2>License</h2>
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-<h2>Acknowledgements</h2>
-<ul>
-  <li>This project utilizes [Library/Tool Name] for [purpose].</li>
-  <li>Special thanks to [Name] for [contribution].</li>
-</ul>
