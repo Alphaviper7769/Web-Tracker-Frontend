@@ -315,7 +315,7 @@
   },
   "welcome": {
     "message": "Welcome to Web Activity Time Tracker",
-    "description": "Web Activity Time Tracker is <b>open-source</b>, <b>free</b> and <b>no ads</b> extension, which can help you track the time you spent on browsing websites and the count of visit."
+    "description": "Web Activity Time Tracker is a Chrome extension, which can help you track the time you spent on browsing websites and the count of visit."
   },
   "getStarted": {
     "message": "Get started"

@@ -67,7 +67,7 @@ async function close() {
 }
 
 async function openDashboard() {
-  const url = Browser.runtime.getURL('src/dashboard.html?tab=dashboard');
+  const url = Browser.runtime.getURL('src/dashboard.html?tab=about');
   const tab = await Browser.tabs.query({ currentWindow: true, active: true });
   Browser.tabs.update(tab[0].id, { url: url });
 }
