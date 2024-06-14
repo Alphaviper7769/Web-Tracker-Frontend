@@ -57,7 +57,7 @@
 pnpm install</code></pre>
     <li><strong>Configuration</strong>: Configure the application settings by modifying the configuration files located in the <code>config</code> directory. Customize settings such as whitelist, blacklist, notification preferences, and any other relevant options.</li>
     <li><strong>Start the Application</strong>: Launch the application by running the following command:</li>
-    <pre><code>pnpm run serve</code></pre>
+    <pre><code>pnpm run start</code></pre>
     
 </ol>
 
