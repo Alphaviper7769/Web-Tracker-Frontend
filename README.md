@@ -1,7 +1,7 @@
 <h1>Web Activity Time Tracker</h1>
 <p>
   Track and manage your web activity efficiently with the Web Activity Time Tracker. This
-  application allows users to log in and monitor the time spent on various websites, offering
+  productivity tool allows users to log in and monitor the time spent on various websites, offering
   insightful statistics through a dashboard. Additionally, it provides features such as
   whitelisting, blacklisting, notifications, and data export to enhance user control and
   productivity.
