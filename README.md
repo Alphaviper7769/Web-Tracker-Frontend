@@ -7,7 +7,7 @@
   productivity.
 </p>
 
-<p> Backend Availabel <a href="https://github.com/Alphaviper7769/Activity-Tracker-Backend"></a></p>
+<p> Backend Available <a href="https://github.com/Alphaviper7769/Activity-Tracker-Backend"> here </a></p>
 
 <h2>Features</h2>
 
